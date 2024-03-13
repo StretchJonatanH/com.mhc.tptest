@@ -1,0 +1,17 @@
+{
+  "generator-ui5-ts-app": {
+    "namespace": "com.mhc.tptest",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.115.1",
+    "author": "StretchJonatanH",
+    "initrepo": true,
+    "tstypes": "@openui5/types",
+    "tstypesVersion": "1.115.1",
+    "appId": "com.mhc.tptest",
+    "appURI": "com/mhc/tptest",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_horizon",
+    "gte11150": true,
+    "setupCompleted": true
+  }
+}
