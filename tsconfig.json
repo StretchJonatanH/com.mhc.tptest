@@ -16,6 +16,11 @@
 			"integration/*": ["./webapp/test/integration/*"]
 		}
 	},
+	"paths": {
+		"com/myorg/myapp/*": ["./webapp/*"],
+		"unit/*": ["./webapp/test/unit/*"],
+		"integration/*": ["./webapp/test/integration/*"]
+	},
 	"include": ["./webapp/**/*"],
 	"exclude": ["./webapp/coverage/**/*"]
 }
